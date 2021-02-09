@@ -1,3 +1,1 @@
-this is read me
-dd
-nn
+This is to test commitlint
